@@ -1,6 +1,6 @@
 # 4chan archived images downloader
 
-This script allows you to download all images from a archived thread on : https://archived.moe/b/
+This script allows you to download all images from an archived thread on : https://archived.moe/b/
 
 Images will be saved in the images folder, filtered by category and thread number. 
 
